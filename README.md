@@ -8,4 +8,4 @@ Each notebook contains a specific Machine learning model with a clear explanatio
      Introductory theory of lines of best fit
      - R squared, Root Mean Square Error
      - Cross Validation
-     - Regularization
+     - Regularization (Ridge, Lasso)
