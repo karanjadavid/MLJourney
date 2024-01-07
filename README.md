@@ -9,3 +9,8 @@ Each notebook contains a specific Machine learning model with a clear explanatio
      - R squared, Root Mean Square Error
      - Cross Validation
      - Regularization (Ridge, Lasso)
+    
+- 3. **Model Fine Tuning**
+     - Confusion Matrix, Classification Report
+     - Logistic Regression, ROC Curve
+     - Hyper parameter tuning : (GridSearchCV, RandomizedSearchCV)
