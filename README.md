@@ -13,7 +13,11 @@ Each notebook contains a specific Machine learning model with a clear explanatio
 - 3. **Model Fine Tuning**
      - Confusion Matrix, Classification Report
      - Logistic Regression, ROC Curve
-     - Hyper parameter tuning : (GridSearchCV, RandomizedSearchCV)
+     - Hyperparameter tuning : (GridSearchCV, RandomizedSearchCV)
 
 - 4. **Data Preprocessing**
+     - Handling Missing Data
+     - Imputation, data pipelines
+     - Centering and scaling
+     
  
