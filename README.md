@@ -19,5 +19,6 @@ Each notebook contains a specific Machine learning model with a clear explanatio
      - Handling Missing Data
      - Imputation, data pipelines
      - Centering and scaling
+     - Evaluating Multiple Models
      
  
