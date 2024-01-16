@@ -1,6 +1,6 @@
 This repo contains my **Machine Learning** 💻 Journey.🚶🏽‍♂️
 Each notebook contains a specific Machine learning model with a clear explanation of how it works. 
-
+# SUPERVISED LEARNING
 - 1. **K Nearest Neighbors** _KNN_
      A classification Supervised Machine Learning
      
@@ -20,5 +20,11 @@ Each notebook contains a specific Machine learning model with a clear explanatio
      - Imputation, data pipelines
      - Centering and scaling
      - Evaluating Multiple Models
+    
+# UNSUPERVISED LEARNING
+- 1. **Clustering for Dataset Exploration**
+     - Introduction to unsupervised learning
+     - Evaluating a clustering
+     - Transforming features for better clustering
      
  
