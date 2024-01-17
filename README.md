@@ -26,5 +26,10 @@ Each notebook contains a specific Machine learning model with a clear explanatio
      - Introduction to unsupervised learning
      - Evaluating a clustering
      - Transforming features for better clustering
+    
+- 2. **Visualization with Hierarchical clustering and t-SNE**
+     - Visualizing Hierarchies
+     - Hierarchical clustering with scipy
+     - t-SNE for 2 dimensional maps
      
  
